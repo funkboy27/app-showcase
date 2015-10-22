@@ -97,6 +97,9 @@
                                                 <state key="normal" title="LOGIN WITH FACEBOOK">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="fbBtnPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8aV-9N-1KD"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <animations/>
